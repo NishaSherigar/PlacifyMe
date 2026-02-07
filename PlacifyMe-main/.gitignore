@@ -2,8 +2,7 @@
 __pycache__/
 *.pyc
 
-# Database files
-*.db
+
 
 # Editor/project settings
 *.idea/
