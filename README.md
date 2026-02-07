@@ -119,22 +119,61 @@ python runplacifyme.py
    - Check notifications for updates
 
 ## 🖼️ Screenshots
+## 🖼️ Screenshots
 
-### 🔐 Home Page 
-*PlacifyME HomePage with different roles*
-<img width="1919" height="1007" alt="Image" src="https://github.com/user-attachments/assets/432fdc4c-c940-4c98-9742-ae5bb5355fa0" />
+### 🏠 Home Page
+*PlacifyMe home page with role-based access for Students, Companies, TPOs, and Administrators*
+<img width="1919" height="1007" alt="PlacifyMe Home Page" src="https://github.com/user-attachments/assets/432fdc4c-c940-4c98-9742-ae5bb5355fa0" />
+
+---
+
+## 👨‍🎓 Student Portal
+
+### 📊 Student Dashboard
+*Personalized dashboard showing job applications, placement status, and notifications*
+![Student Dashboard]<img width="1919" height="1016" alt="Image" src="https://github.com/user-attachments/assets/de53c2e6-3e81-4e38-b25b-f384d1674851" />
+
+
+### 👤 Student Profile
+*Profile page where students can add and update personal, academic, and contact details*
+![Student Profile]<img width="1919" height="1015" alt="Image" src="https://github.com/user-attachments/assets/f3df635d-0fe2-4b20-91fe-7efe4ae349d5" />
+
+### 📅 Interview Schedule
+*View scheduled interviews with company details, date, time, and venue*
+![Interview Schedule]<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/8cf2a2a4-d552-4b21-aacd-b08bef6240da" />
+
+### 🔔 Notifications
+*Real-time notifications for job postings, interviews, and application updates*
+![Student Notifications]<img width="1919" height="1025" alt="Image" src="https://github.com/user-attachments/assets/ab272414-529b-4662-8889-6e6aef93ca0a" />
+
+---
+
+## 🏢 Company Portal
+
+### 📊 Company Dashboard
+*Overview of job postings, applications received, shortlisted candidates, and selections*
+![Company Dashboard]<img width="1919" height="1018" alt="Image" src="https://github.com/user-attachments/assets/cbfd07f5-f74c-45f6-908f-8fcfae426f93" />
+
+### 📝 Company Registration
+*Company registration and profile verification page*
+![Company Registration]<img width="1919" height="1016" alt="Image" src="https://github.com/user-attachments/assets/c73ea852-4ae0-4e26-b392-b056d66d1fda" />
+
+### 📈 Company Analytics
+*Analytics showing number of students enrolled, shortlisted, interviewed, and selected*
+![Company Analytics]<img width="1919" height="1016" alt="Image" src="https://github.com/user-attachments/assets/9beca43d-9fb2-41ea-a101-a0e66a553f14" />
+
+---
+
+## ⚙️ Admin Portal
 
 ### 📊 Admin Dashboard
-*Complete system overview with analytics*
-![Admin Dashboard](https://via.placeholder.com/800x450.png?text=Admin+Dashboard+with+Analytics)
+*System-wide overview of students, companies, job postings, and placements*
+![Admin Dashboard]<img width="1918" height="1019" alt="Image" src="https://github.com/user-attachments/assets/e312630d-bc69-46ea-b90e-970699dbc15a" />
 
-### 🏢 Company Portal
-*Job posting and candidate management*
-![Company Portal](https://via.placeholder.com/800x450.png?text=Company+Portal+-+Job+Management)
 
-### 📈 Analytics Dashboard
-*Placement statistics and charts*
-![Analytics](https://via.placeholder.com/800x450.png?text=Placement+Analytics+Dashboard)
+### 📄 Report Generation
+*Generate placement reports, statistics, and export data*
+![Report Generation]<img width="1919" height="1023" alt="Image" src="https://github.com/user-attachments/assets/5e63806f-b038-4f6c-b48b-e3d9f1e5dc33" />
 
 ## 🎮 Usage Guide
 
