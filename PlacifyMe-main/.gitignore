@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Database files
+*.db
+
+# Editor/project settings
+*.idea/
+*.iml
+workspace.xml
+misc.xml
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
