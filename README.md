@@ -1,4 +1,4 @@
-# 🎓 PlacifyMe – Complete Placement Management System
+# 🎓 PlacifyMe – Placement Management System
 
 PlacifyMe is a **comprehensive placement management system** designed for educational institutions to efficiently manage the entire campus placement process. It provides **role-based portals** for **Students, Companies, Training & Placement Officers (TPOs), and Administrators**.
 
